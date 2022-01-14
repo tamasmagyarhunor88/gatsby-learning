@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: "Hunor GatsbyJS learning",
-        siteUrl: `https://www.yourdomain.tld`,
+        title: "Hunor GatsbyJS lrng",
+        siteUrl: `https://www.hunorlearning.xyz`,
     },
     plugins: [
         "gatsby-plugin-image",
