@@ -5,7 +5,7 @@ const ContactPage = () => {
     return (
         <Layout pageTitle="Contact">
             <p>email@email.com</p>
-            <p>0777888999</p>
+            <p>07133701337</p>
         </Layout>
     )
 }
